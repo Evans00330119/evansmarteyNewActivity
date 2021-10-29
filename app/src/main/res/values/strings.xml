@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">evans marteyNewActivity</string>
+
+    <string name="activity1">Want to know my name?</string>
+    <string name="activity2">Evans Fiifi Martey</string>
+
+    <string name="button">Next Activity</string>
+</resources>
